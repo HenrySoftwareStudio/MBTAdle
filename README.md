@@ -1,6 +1,6 @@
 # Subwaydle
 
-A Wordle-inspired NYC Subway daily puzzle game inspired this game: the MBTAdle. It is the same concept but for the "T" (Commuter rail doesn't count, but the Silver Line is included). Contains some source code lifted from the [open-source clone](https://github.com/cwackerfuss/word-guessing-game) by Hannah Park. Subwaydle is a static JavaScript app, written using Create React App with React, Sass, Semantic UI React and Mapbox. A few Ruby scripts were written to generate JSON data files used by the app.
+A Wordle-inspired NYC Subway daily puzzle game inspired this game: the MBTAdle. It is the same concept but for the "T" (Commuter rail doesn't count, but the Silver Line is included). Contains some source code lifted from the [open-source clone](https://github.com/cwackerfuss/word-guessing-game) by Hannah Park.
 
 See it live at ~~https://www.subwaydle.com~~ (Website to be founded, this link goes the inspiration's site.)
 
